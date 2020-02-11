@@ -2,6 +2,7 @@
 A curated list of amazingly awesome Persian supporting tools, fonts, and development resources.
 
 - [Awesome Persian](#awesome-persian)
+	- [Web Tutorial](#Web-Tutorial)
 	- [Frameworks](#frameworks)
 	- [CSS](#css)
 	- [Fonts](#fonts)
@@ -12,6 +13,11 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 	- [Python](#python)
   	- [Ruby](#ruby)
 	- [Go](#go)
+
+## Web Tutorial
+*HTML, CSS, JavaScript, React, Redux, Django, Rest Framework and Docker Tutorial*
+
+* [basic and advanced tutorial of web development](https://github.com/mostafaghadimi/web_workshop/) - The biggest repository for Iranians to learn web technologies, like: HTML, CSS, JavaScript, ReactJS, Redux, Django, Rest-Framework, Docker and Jenkins. You'll also get familiar with the following skills: front-end developer, back-end developer, full-stack developer and devOps engineer.
 
 ## Frameworks
 *Web Frameworks with native support for RTL languages*
